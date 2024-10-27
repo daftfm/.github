@@ -1,6 +1,5 @@
 
 ![daft fm banner](https://github.com/user-attachments/assets/4ddc5261-faa0-44c9-89fc-1952dbdd7ee1)
-abo
 
 DAFT FM is a music website and organization dedicated to the music industry & helping artists grow.
 <br><br>
@@ -25,4 +24,6 @@ Say hello @ [daft.fm](https://daft.fm)
 ## Shop
 - [Free Stuff](https://serp.ly/@daftfm/stuff)
 
+<br><br>
 
+A [SERP](https://serp.co) Company
