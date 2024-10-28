@@ -21,7 +21,7 @@
 
 
 ## Resources
-- [Commnuity/Forum](https://github.com/daftfm/discussions)
+- [Commnuity / Forum](https://github.com/daftfm/discussions)
 - [Artist Partner Program](https://giothub.com/daftfm/parter-program)
 - [Free Stuff](https://serp.ly/@daftfm/stuff)
 
