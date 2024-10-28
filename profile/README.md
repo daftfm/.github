@@ -20,12 +20,11 @@
 - [Facebook](https://serp.ly/@daftfm/facebook)
 
 
-## Community
-- [Forum](https://github.com/daftfm/discussions)
-
-
-## Shop
+## Resources
+- [Commnuity/Forum](https://github.com/daftfm/discussions)
+- [Artist Partner Program](https://giothub.com/daftfm/parter-program)
 - [Free Stuff](https://serp.ly/@daftfm/stuff)
+
 
 <br><br>
 
