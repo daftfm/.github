@@ -10,7 +10,6 @@
 
 <p>We're committed to using technology to empower artists and help them succeed - no matter how the landscape changes, because we believe that technology has an expiration date, but music is forever.</p>
 
-<br>
 
 ## Brand
 - [Website](https://daft.fm)
